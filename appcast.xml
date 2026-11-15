@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Tempo</title>
+    <link>https://github.com/n3oraZor/tempo-releases</link>
+    <description>Nouvelles versions de Tempo</description>
+    <language>fr</language>
+    <item>
+      <title>Tempo 1.1.3</title>
+      <pubDate>Sat, 14 Nov 2026 23:28:14 +0000</pubDate>
+      <sparkle:version>202611142324</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Plus rapide, plus économe, et une nouvelle page des offres</h3><ul><li>Tempo consomme beaucoup moins : la récupération de vos anciens emails demande quatre à cinq fois moins de calcul, et l&#x27;app se réveille six fois moins souvent quand elle est ouverte sans rien faire.</li><li>Quand vos emails arrivent déjà en direct, Tempo vérifie le reste de la boîte toutes les 5 minutes au lieu de chaque minute : moins de réseau, autant de réactivité.</li><li>Les images des emails de banque (logos, signatures) s&#x27;affichent maintenant, même quand l&#x27;email les déclare d&#x27;une façon inhabituelle.</li><li>Un libellé reste en gras tant que vous n&#x27;avez pas vu les emails rangés automatiquement dedans.</li><li>Nouvelle page des offres : l&#x27;économie de l&#x27;abonnement annuel est affichée en euros, et chaque offre payante peut maintenant se prendre au mois ou à l&#x27;année.</li><li>Nouveau : un essai de 7 jours de l&#x27;offre Full pour 2 €, sans renouvellement automatique ; les 2 € sont déduits si vous continuez.</li><li>Vous avez votre propre clé d&#x27;IA ? Light et Full sont proposées à prix réduit, sans limite de demandes.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.1.3/Tempo.dmg" length="24335300" type="application/octet-stream"
+                 sparkle:edSignature="vPiQRkjwhZ6WfhiK5Rm4lKBN7RTme0GiU+bs+2kNSt56BQ6nWlbcv92TXq2yMVwOu+nhhnoGOzwwlVg4gYd7DQ=="/>
+    </item>
+  </channel>
+</rss>
