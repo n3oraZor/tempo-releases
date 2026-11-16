@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Tempo</description>
     <language>fr</language>
     <item>
+      <title>Tempo 1.2.0</title>
+      <pubDate>Mon, 16 Nov 2026 14:43:31 +0000</pubDate>
+      <sparkle:version>202611161438</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Le Pense-bête : vos réservations, colis et rendez-vous rangés tout seuls</h3><ul><li>Nouveau : le Pense-bête. Tempo y range tout seul les vols, trains, hôtels, colis et rendez-vous trouvés dans vos emails, avec le numéro de réservation, le code à donner au livreur et le lien de suivi. Un clic sur un numéro le copie.</li><li>Les heures de vol sont celles écrites sur le billet, à l&#x27;heure de chaque aéroport. L&#x27;agenda et les rappels tombent à la bonne heure, même au retour d&#x27;un autre pays.</li><li>« Ajouter à mon agenda » prépare l&#x27;évènement avec tous les détails : vous vérifiez, puis vous enregistrez. Tempo vous prévient la veille d&#x27;un vol pour l&#x27;enregistrement et le jour d&#x27;une livraison.</li><li>Un bandeau en haut de la boîte annonce votre prochaine réunion de la journée, avec « Rejoindre » en un clic. Seules les réunions où vous êtes invité s&#x27;y affichent.</li><li>Barre du haut plus claire : « Écrire », puis les onglets Emails, Agenda, Newsletters, Pense-bête et Temps gagné, puis « Demander à l&#x27;IA ». « Abonnements » s&#x27;appelle maintenant « Newsletters », et « Mon bilan » « Temps gagné ».</li><li>La liste des emails et l&#x27;email ouvert s&#x27;affichent côte à côte.</li><li>Tri des emails : choisissez entre automatique et à la main avec un interrupteur toujours visible, et rangez d&#x27;un clic avec le bouton « Trier ».</li><li>Le dossier Envoyés montre aussi vos réponses, comme dans Gmail.</li><li>Les marques qui publient leur logo officiel l&#x27;affichent maintenant à côté de leurs emails.</li><li>Avec Gmail, les emails épinglés sont les mêmes sur le Mac et sur l&#x27;iPhone.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.2.0/Tempo.dmg" length="25815517" type="application/octet-stream"
+                 sparkle:edSignature="tiPregYGtgfKYbdJCYEQDaVbsZmr+J5PzZ2iWaR2GsUwuxQHylfIsieElivRJ6iy8T7kzloScKlLeEVwREYfDg=="/>
+    </item>
+    <item>
       <title>Tempo 1.1.3</title>
       <pubDate>Sat, 14 Nov 2026 23:28:14 +0000</pubDate>
       <sparkle:version>202611142324</sparkle:version>
@@ -14,6 +24,46 @@
       <description><![CDATA[<h3>Plus rapide, plus économe, et une nouvelle page des offres</h3><ul><li>Tempo consomme beaucoup moins : la récupération de vos anciens emails demande quatre à cinq fois moins de calcul, et l&#x27;app se réveille six fois moins souvent quand elle est ouverte sans rien faire.</li><li>Quand vos emails arrivent déjà en direct, Tempo vérifie le reste de la boîte toutes les 5 minutes au lieu de chaque minute : moins de réseau, autant de réactivité.</li><li>Les images des emails de banque (logos, signatures) s&#x27;affichent maintenant, même quand l&#x27;email les déclare d&#x27;une façon inhabituelle.</li><li>Un libellé reste en gras tant que vous n&#x27;avez pas vu les emails rangés automatiquement dedans.</li><li>Nouvelle page des offres : l&#x27;économie de l&#x27;abonnement annuel est affichée en euros, et chaque offre payante peut maintenant se prendre au mois ou à l&#x27;année.</li><li>Nouveau : un essai de 7 jours de l&#x27;offre Full pour 2 €, sans renouvellement automatique ; les 2 € sont déduits si vous continuez.</li><li>Vous avez votre propre clé d&#x27;IA ? Light et Full sont proposées à prix réduit, sans limite de demandes.</li></ul>]]></description>
       <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.1.3/Tempo.dmg" length="24335300" type="application/octet-stream"
                  sparkle:edSignature="vPiQRkjwhZ6WfhiK5Rm4lKBN7RTme0GiU+bs+2kNSt56BQ6nWlbcv92TXq2yMVwOu+nhhnoGOzwwlVg4gYd7DQ=="/>
+    </item>
+    <item>
+      <title>Tempo 1.1.2</title>
+      <pubDate>Sat, 14 Nov 2026 20:27:13 +0000</pubDate>
+      <sparkle:version>202611142023</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Rangés pour vous : le tri automatique ne vous fait plus rien rater</h3><ul><li>Nouveau dossier « Rangés pour vous », sous la boîte de réception : il garde 14 jours tout ce que vos règles de tri ont sorti de la boîte, avec le nombre d&#x27;emails pas encore lus.</li><li>Un rappel s&#x27;affiche dans la boîte quand des emails viennent d&#x27;être rangés automatiquement.</li><li>Une réponse à l&#x27;un de vos emails reste toujours dans la boîte, même si une règle de tri la vise.</li><li>Un email rangé à tort ? En l&#x27;ouvrant, deux boutons : « Remettre dans la boîte » et « Ne plus ranger cet expéditeur ».</li><li>Réglages › Tri : chaque règle peut avoir des exceptions (« sauf ceux de… »).</li><li>Clic droit sur un email › « Voir tous les emails échangés avec… » : tout ce que vous avez reçu de cette personne et tout ce que vous lui avez envoyé.</li><li>« Demander à Tempo » : gardez vos demandes préférées en raccourcis, dans l&#x27;agenda et dans le panneau de l&#x27;IA (clic droit pour les modifier, les déplacer ou les retirer).</li><li>Sécurité renforcée : un email piégé ne peut plus ajouter un destinataire caché à vos réponses, et un lien de désabonnement piégé ne peut plus envoyer d&#x27;email à votre place ni atteindre votre réseau local.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.1.2/Tempo.dmg" length="23748850" type="application/octet-stream"
+                 sparkle:edSignature="wMXqaEKf9k6UXMJ0kRCALDnq0NQNWEyF7/5O/dmgbqA33QFt3EnCOBmPHfHivykGyMjwY8GA77w1j2/2tuW5Ag=="/>
+    </item>
+    <item>
+      <title>Tempo 1.1.1</title>
+      <pubDate>Sat, 14 Nov 2026 12:19:26 +0000</pubDate>
+      <sparkle:version>202611141216</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Agendas abonnés, images des emails et petits tracas réglés</h3><ul><li>Agenda : abonnez-vous à un agenda en collant son lien (vacances scolaires, planning d&#x27;une équipe ou d&#x27;un outil). Tempo l&#x27;affiche avec les vôtres et le met à jour tout seul.</li><li>Les images des emails s&#x27;affichent mieux : logos de signature, images intégrées au message et images d&#x27;anciens sites.</li><li>Nouvel onglet « Épinglés » ; les conversations épinglées restent en haut, de la plus récente à la plus ancienne.</li><li>Les invitations déjà acceptées ne reviennent plus dans la liste à traiter.</li><li>Un brouillon Gmail supprimé ne réapparaît plus au lancement suivant.</li><li>Les chiffres à côté des libellés se mettent à jour tout de suite après un rangement.</li><li>Liste des emails plus nette : date, punaise et trombone sont alignés.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.1.1/Tempo.dmg" length="23232367" type="application/octet-stream"
+                 sparkle:edSignature="7jBWTgKYgjk6ZuJIybYfxljKnRhY8VYojhe3I8ZBF8ndO1yE046O3zPz2tfyNk0WRtedQ8HSh/JMyXdDT0rKAw=="/>
+    </item>
+    <item>
+      <title>Tempo 1.1.0</title>
+      <pubDate>Fri, 13 Nov 2026 21:01:45 +0000</pubDate>
+      <sparkle:version>202611132056</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Plus rapide, et l&#x27;assistant fait le ménage en grand</h3><ul><li>Tempo est plus fluide : la barre latérale et la synchronisation ne ralentissent plus l&#x27;app pendant un gros rangement.</li><li>L&#x27;assistant traite vos emails par centaines en une seule demande (supprimer, archiver, libeller), sans s&#x27;arrêter en route.</li><li>Vider la corbeille et supprimer définitivement, avec une confirmation à chaque fois.</li><li>Un petit chiffre à côté des dossiers « Plus tard » et « Envois programmés » quand quelque chose vous y attend.</li><li>Trois offres : Gratuit, Light et Full, avec une démonstration animée des quatre atouts de Tempo.</li><li>Mode vocal : une nouvelle animation montre quand Tempo vous écoute, réfléchit et vous répond.</li><li>Mon bilan affiche un temps gagné plus réaliste.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.1.0/Tempo.dmg" length="23193215" type="application/octet-stream"
+                 sparkle:edSignature="GFMU1m01fPomqZCzXjmgFPxQ9R4ac4f4RHGTlxNyKcfv/VLEeFZ5NWAFBF6m4OHihEil4MKlRQfKwXGKfCCXBg=="/>
+    </item>
+    <item>
+      <title>Tempo 1.0.0</title>
+      <pubDate>Fri, 13 Nov 2026 14:28:06 +0000</pubDate>
+      <sparkle:version>202611131423</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Première version officielle</h3><ul><li>Tous vos comptes dans une seule boîte : Gmail, iCloud, Outlook et les autres.</li><li>Trier vite : archiver, mettre de côté pour plus tard, glisser un email vers la Corbeille ou un libellé.</li><li>Se désabonner des publicités en un clic, et supprimer d&#x27;un coup celles déjà reçues.</li><li>Agenda et invitations dans la même app.</li><li>Un assistant qui résume les longues conversations et propose des réponses.</li><li>Les mises à jour arrivent toutes seules : Tempo vous prévient quand une nouvelle version est prête.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.0.0/Tempo.dmg" length="21273224" type="application/octet-stream"
+                 sparkle:edSignature="9BKd6qvzwRIKkwcgsmsJt/VTXaJq26VxRdanxKqfBta3MpOfh6k9rJ8PZUQTpR4FDVOXtv6kRwCw0S1J/s+gDQ=="/>
     </item>
   </channel>
 </rss>
