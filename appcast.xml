@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Tempo</description>
     <language>fr</language>
     <item>
+      <title>Tempo 1.2.1</title>
+      <pubDate>Mon, 16 Nov 2026 21:21:11 +0000</pubDate>
+      <sparkle:version>202611162100</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Plus légère, plus rapide, et les libellés en gras pour suivre le tri</h3><ul><li>Tempo prend environ deux fois moins de place sur votre Mac : l&#x27;app elle-même, et les emails qu&#x27;elle garde. La conversion se fait toute seule en arrière-plan après la mise à jour ; rien à faire.</li><li>L&#x27;app reste fluide pendant la synchronisation, la recherche répond sans ralentir la frappe et un email s&#x27;ouvre plus vite.</li><li>Moins de batterie et de réseau : quand rien n&#x27;a changé dans votre boîte ou votre agenda, Tempo ne retélécharge plus rien.</li><li>Dans la barre latérale, le nom d&#x27;un libellé passe en gras quand le tri automatique vient d&#x27;y ranger un email, et le reste jusqu&#x27;à ce que vous l&#x27;ouvriez. Pratique pour faire le tour des libellés en fin de journée.</li><li>« Rangés pour vous » montre aussi les emails rangés depuis un autre appareil ou par un filtre de votre messagerie.</li><li>Newsletters : l&#x27;IA analyse la liste à l&#x27;ouverture, au lieu d&#x27;annoncer « Tout est trié » trop tôt.</li><li>Corrigé : le Point du jour ne fait plus planter l&#x27;app le soir quand une réunion commence après 19 h.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.2.1/Tempo.dmg" length="17832286" type="application/octet-stream"
+                 sparkle:edSignature="NX57ke176NTplkzkFf37xccJxuQKxRo6ZkfN9zVRCDu4rdecXi826cNjTGh0STR8UaWIt3XVXap+seUfL4mMCQ=="/>
+    </item>
+    <item>
       <title>Tempo 1.2.0</title>
       <pubDate>Mon, 16 Nov 2026 14:43:31 +0000</pubDate>
       <sparkle:version>202611161438</sparkle:version>
