@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Tempo</description>
     <language>fr</language>
     <item>
+      <title>Tempo 1.2.2</title>
+      <pubDate>Tue, 17 Nov 2026 09:52:21 +0000</pubDate>
+      <sparkle:version>202611170948</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Yahoo, Orange, Free… ajoutés sans rien chercher, et une boîte d&#x27;exemple qui s&#x27;explique</h3><ul><li>Ajouter une adresse Yahoo, Orange, Free, SFR, La Poste, Bouygues, AOL ou Fastmail : tapez votre adresse, Tempo remplit les serveurs lui-même. Plus besoin de chercher « IMAP » dans l&#x27;aide de votre fournisseur.</li><li>Pour Yahoo, AOL et Fastmail, Tempo explique qu&#x27;il faut un mot de passe spécial, créé pour l&#x27;app, et vous donne le lien pour le créer.</li><li>Quand un compte ne se connecte pas, le message dit maintenant quel serveur ne répond pas et quoi corriger, au lieu de « Connexion expirée ou annulée ».</li><li>Au premier lancement, Tempo s&#x27;ouvre sur une boîte d&#x27;exemple. Un bandeau le dit désormais clairement : ces comptes et ces emails sont inventés, ils servent à essayer l&#x27;app sans connecter votre adresse.</li><li>Les comptes d&#x27;exemple disparaissent tout seuls dès que vous ajoutez votre vrai compte. Il n&#x27;y a plus de case à cocher pour les retirer.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.2.2/Tempo.dmg" length="17894399" type="application/octet-stream"
+                 sparkle:edSignature="ELEbzj9DsURnxYDI9Z5dtfE1tPEWuMJpK4qkmRfI1IQgg7W7GmiPHsqvi7aQb1N9JVo1jzldllI6Pav1g9N7Cg=="/>
+    </item>
+    <item>
       <title>Tempo 1.2.1</title>
       <pubDate>Mon, 16 Nov 2026 21:21:11 +0000</pubDate>
       <sparkle:version>202611162100</sparkle:version>
