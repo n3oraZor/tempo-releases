@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Tempo</description>
     <language>fr</language>
     <item>
+      <title>Tempo 1.3.0</title>
+      <pubDate>Tue, 17 Nov 2026 14:29:20 +0000</pubDate>
+      <sparkle:version>202611171425</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Démarrer en trois étapes : votre boîte mail, votre offre, votre IA</h3><ul><li>Au premier lancement, Tempo vous guide en trois étapes, une par écran : relier votre boîte mail, choisir votre offre, mettre votre IA en route. Chaque étape peut être passée et reprise plus tard, par le menu Aide › Mise en route.</li><li>Mettre l&#x27;IA en route est devenu simple : choisissez votre IA, connectez-la en suivant les gestes numérotés, puis lancez un essai. Tempo répond « OK » ou « KO », sans jargon.</li><li>Si vous collez un code qui n&#x27;est pas une clé d&#x27;API (par exemple celui de « claude setup-token », réservé à Claude Code), Tempo le reconnaît et vous dit où créer la bonne clé.</li><li>La fenêtre des réglages est plus grande : moins de défilement, et chaque réglage de l&#x27;assistant s&#x27;ouvre à part.</li><li>En bas de la barre latérale, « Réglages » et « Aide » sont de vrais boutons, bien séparés des libellés.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.3.0/Tempo.dmg" length="18211729" type="application/octet-stream"
+                 sparkle:edSignature="lQPlf1rBskr2JX3kAHwE3bCDoFvB89yJDK0VszSquukYJy1VSXS32I/RXpZS4S2UewIERe8y3uY6JAMV0D56Cg=="/>
+    </item>
+    <item>
       <title>Tempo 1.2.2</title>
       <pubDate>Tue, 17 Nov 2026 09:52:21 +0000</pubDate>
       <sparkle:version>202611170948</sparkle:version>
