@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Tempo</description>
     <language>fr</language>
     <item>
+      <title>Tempo 1.5.0</title>
+      <pubDate>Thu, 19 Nov 2026 15:44:18 +0000</pubDate>
+      <sparkle:version>202611191540</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Des réponses qui vous ressemblent : Tempo connaît la personne à qui vous écrivez</h3><ul><li>Avant de vous proposer une réponse, Tempo relit ce que vos emails disent de la personne : vous la tutoyez ou la vouvoyez, comment vous lui dites bonjour et au revoir, vos derniers échanges. Les réponses ont enfin votre ton.</li><li>Si l&#x27;on vous parle de se voir, Tempo propose de vrais créneaux libres au lieu d&#x27;un « [date] » à compléter. Si vous voyez l&#x27;agenda de la personne (abonnement, ou même entreprise sur Google), ce sont des créneaux libres pour vous deux.</li><li>Sous chaque proposition, une ligne dit sur quoi Tempo s&#x27;est appuyé : « Tenu compte de : 23 échanges avec Léa · tutoiement · vos deux agendas ».</li><li>L&#x27;assistant (⌘J) fait pareil avant chaque brouillon, et « Répondre pour moi » sur iPhone aussi.</li><li>Quand la personne répond « jeudi 10 h ça me va », Tempo le repère : un bouton « Créer le rendez-vous » ouvre la fiche déjà remplie (jour, heure, invités, lien Meet). Vous relisez, vous enregistrez, l&#x27;invitation part.</li><li>Tout est lu sur votre Mac, sans envoi en plus : seul le fournisseur d&#x27;IA que vous avez choisi reçoit le contexte, comme le message lui-même.</li><li>Le bouton « Trier maintenant » rejoint la barre du haut, à côté des onglets : une ligne de moins au-dessus de vos emails.</li><li>Barre latérale plus nette : elle commence sous les boutons de la fenêtre, un seul bouton sert à la masquer.</li><li>Pendant une recherche, le nombre de résultats a sa propre ligne et ne recouvre plus rien.</li><li>Onglets aux icônes harmonisées : l&#x27;onglet ouvert a son icône pleine.</li><li>La fenêtre des Réglages prend la hauteur de chaque onglet, comme dans Mail.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.5.0/Tempo.dmg" length="18031547" type="application/octet-stream"
+                 sparkle:edSignature="om/7qSnOe2XUVevOugAeQsB6jPcpFFrld0xi8z3WyEa5Lizs46fBPGctDwOo8BIfYdrx5AsI0fO8fafQsKF6DA=="/>
+    </item>
+    <item>
       <title>Tempo 1.3.0</title>
       <pubDate>Tue, 17 Nov 2026 14:29:20 +0000</pubDate>
       <sparkle:version>202611171425</sparkle:version>
