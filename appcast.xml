@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.5.2</title>
+      <pubDate>Fri, 20 Nov 2026 19:40:43 +0000</pubDate>
+      <sparkle:version>202611201935</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Répondre comme dans Gmail : tout l&#x27;échange sous les yeux</h3><ul><li>Quand vous répondez, « Voir les messages précédents » déplie tout l&#x27;échange sous votre signature, avec une barre à gauche pour chaque réponse, comme dans Gmail.</li><li>Vous pouvez corriger ces messages, en retirer un passage, ou tout retirer de votre réponse. « Les remettre » annule tant que la fenêtre est ouverte.</li><li>Votre texte, votre signature et l&#x27;échange forment une seule page qui défile d&#x27;un bloc : plus de petit cadre à faire défiler à part.</li><li>Dans la liste étroite, la punaise d&#x27;un email épinglé ne bouge plus quand vous passez la souris : les boutons Plus tard, Archiver et Supprimer s&#x27;affichent à la place de la date.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.5.2/ClarkMail.dmg" length="18217629" type="application/octet-stream"
+                 sparkle:edSignature="hRANjYc1KnUewe5qz/iIgCmF2yJJoWAEAIknZsirk3RPdRXKF7ZNGqtifaJcRFYNNm5Ql1whJG9ciSO6PZEYDA=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.5.1</title>
       <pubDate>Thu, 19 Nov 2026 23:02:21 +0000</pubDate>
       <sparkle:version>202611192257</sparkle:version>
