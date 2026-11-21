@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.7.0</title>
+      <pubDate>Sat, 21 Nov 2026 22:01:03 +0000</pubDate>
+      <sparkle:version>202611212157</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Mettre l&#x27;IA en route : avec votre clé, ou avec une formule</h3><ul><li>La mise en route de l&#x27;IA commence par une seule question : avez-vous déjà une clé d&#x27;IA ? Si oui, Clark Mail vous accompagne pas à pas : vous la collez, vous choisissez la puissance, et un essai vérifie qu&#x27;elle répond.</li><li>Vous ne retrouvez pas votre clé ? Dites chez qui est votre compte (Claude, ChatGPT ou Mistral) : Clark Mail vous montre la page où en créer une nouvelle, et le bouton à cliquer.</li><li>Pas de clé ? Choisissez votre formule Clark Mail : l&#x27;IA y est incluse, rien à créer ni à copier. Pendant la bêta, votre propre clé débloque toutes les fonctions, offertes.</li><li>La mise en route du premier lancement passe à deux étapes : votre boîte mail, puis votre IA.</li><li>La page Offre s&#x27;adapte à votre formule : vous voyez votre abonnement et ce qu&#x27;il vous apporte, et « Gérer l&#x27;abonnement… » dit clairement ce qui change avant de confirmer.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.7.0/ClarkMail.dmg" length="18720499" type="application/octet-stream"
+                 sparkle:edSignature="1yQ3nUZP+xBqo7Td+7YovSUGB/HlvNO8K1svixXHTrsZ71U7qv4amjvhgYS/JaQnSJ3jjWKY370N4CAZucWIDQ=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.6.1</title>
       <pubDate>Sat, 21 Nov 2026 20:07:23 +0000</pubDate>
       <sparkle:version>202611212004</sparkle:version>
