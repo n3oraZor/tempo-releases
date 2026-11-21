@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.7.1</title>
+      <pubDate>Sat, 21 Nov 2026 22:25:54 +0000</pubDate>
+      <sparkle:version>202611212209</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>L&#x27;IA Clark Mail se branche sur notre serveur</h3><ul><li>L&#x27;IA Clark Mail passe maintenant par le serveur de Clark Mail : rien à créer ni à copier. Pendant la bêta, elle est ouverte aux testeurs invités.</li><li>Votre propre clé d&#x27;IA marche avec toutes les formules pendant la bêta.</li><li>Si l&#x27;IA Clark Mail n&#x27;est pas encore ouverte pour vous, Clark Mail le dit clairement, et l&#x27;IA de votre Mac continue de rédiger et résumer vos emails.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.7.1/ClarkMail.dmg" length="18691141" type="application/octet-stream"
+                 sparkle:edSignature="yYfWCQtsLPhKT8GMBSH5LRb8kMuzj4Ca0SAhZ3cx1rbATng2fy3T3XBkxnO/rAjTpq7OZqqZKpkIUTjRY9QuCw=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.7.0</title>
       <pubDate>Sat, 21 Nov 2026 22:01:03 +0000</pubDate>
       <sparkle:version>202611212157</sparkle:version>
