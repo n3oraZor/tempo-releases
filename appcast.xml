@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.6.1</title>
+      <pubDate>Sat, 21 Nov 2026 20:07:23 +0000</pubDate>
+      <sparkle:version>202611212004</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>⌘A et Suppr répondent comme dans Mail</h3><ul><li>⌘A coche tous les emails de la liste, même quand un email est ouvert à côté. Après un clic dans le texte d&#x27;un email, ⌘A sélectionne ce texte.</li><li>Suppr met l&#x27;email à la corbeille, et ⌘⌫ fait pareil. Dans la corbeille, Suppr propose de supprimer pour de bon, après confirmation.</li><li>Un clic dans la liste des emails lui rend le clavier : les raccourcis ne partent plus dans le champ de recherche ou dans « Demander à l&#x27;IA ».</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.6.1/ClarkMail.dmg" length="18503672" type="application/octet-stream"
+                 sparkle:edSignature="5dcvNPARlEFDB1M/JqOHDc7t57CjZ1LUqLIBJKU87YxOuh9pOLEHAcmTVxHM3CQFu/6aT3VFtNws87TYF9Y+Dw=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.6.0</title>
       <pubDate>Sat, 21 Nov 2026 19:48:19 +0000</pubDate>
       <sparkle:version>202611211944</sparkle:version>
