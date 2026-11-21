@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.6.0</title>
+      <pubDate>Sat, 21 Nov 2026 19:48:19 +0000</pubDate>
+      <sparkle:version>202611211944</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Des statistiques anonymes pour améliorer Clark Mail</h3><ul><li>Clark Mail envoie maintenant des statistiques anonymes d&#x27;utilisation : l&#x27;app a été ouverte, telle fonction a servi, combien de fois dans la journée. Elles nous disent ce qui sert vraiment, pour savoir quoi améliorer en premier.</li><li>Rien de personnel n&#x27;en fait partie : ni vos adresses, ni vos contacts, ni l&#x27;objet ou le texte de vos emails, ni vos demandes à l&#x27;IA.</li><li>La liste complète de ce qui est envoyé est sur la page Confidentialité du site.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.6.0/ClarkMail.dmg" length="18522801" type="application/octet-stream"
+                 sparkle:edSignature="GJL+0ovSJxIeVG5AbJBU2d1At6FZjoyCEPm8F4yCouFTEy+uQ/tKwxLrE1sFolnT1Jd5gYcqCILNQ57PrrIPAQ=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.5.3</title>
       <pubDate>Sat, 21 Nov 2026 13:41:35 +0000</pubDate>
       <sparkle:version>202611211331</sparkle:version>
