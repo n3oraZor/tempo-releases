@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.5.3</title>
+      <pubDate>Sat, 21 Nov 2026 13:41:35 +0000</pubDate>
+      <sparkle:version>202611211331</sparkle:version>
+      <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Brancher votre IA en répondant à quelques questions</h3><ul><li>Un nouveau guide met votre IA en route, une question par écran. Première question : avez-vous déjà une clé d&#x27;IA ? Si oui, vous la collez et vous choisissez sa puissance. Sinon, Clark Mail vous guide un geste à la fois.</li><li>Pour chaque geste à faire sur le site de votre IA (ouvrir un compte, y mettre quelques euros, créer la clé), une image montre le bouton à chercher.</li><li>Si votre compte d&#x27;IA n&#x27;a pas de crédit, Clark Mail vous le dit en clair et vous propose d&#x27;en ajouter, au lieu d&#x27;un simple échec.</li><li>Réglages › Assistant est plus court : un bouton « Commencer » tant que l&#x27;IA n&#x27;est pas branchée, puis votre IA en service et « Changer… ».</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.5.3/ClarkMail.dmg" length="18429979" type="application/octet-stream"
+                 sparkle:edSignature="jEZ6Brfkz3HWqbPeVpywfxCXM6sKSCLnvxn0Biu8TFnFoj838iRkvHuR+D/xRTZRUl848qQGU0vBPBUYpS1QBw=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.5.2</title>
       <pubDate>Fri, 20 Nov 2026 19:40:43 +0000</pubDate>
       <sparkle:version>202611201935</sparkle:version>
