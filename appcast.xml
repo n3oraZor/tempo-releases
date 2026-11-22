@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.7.3</title>
+      <pubDate>Sun, 22 Nov 2026 09:55:55 +0000</pubDate>
+      <sparkle:version>202611220952</sparkle:version>
+      <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Votre IA est prête, dès la première ouverture</h3><ul><li>Le guide de l&#x27;IA est refait : l&#x27;IA Clark Mail de votre formule est déjà en place, il n&#x27;y a rien à régler. Brancher votre propre IA (Claude, ChatGPT, Mistral ou OpenRouter) devient une option.</li><li>Nouvel écran « Votre consommation » : le nombre de demandes faites à l&#x27;IA ce mois-ci, en clair.</li><li>Réglages › Écriture : les modèles, consignes et notes se modifient dans une fenêtre avec la liste à gauche et le détail à droite.</li><li>Pendant la bêta, les boutons d&#x27;offre disent clairement que votre offre est réglée par l&#x27;équipe Clark Mail, au lieu de ne rien faire.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.7.3/ClarkMail.dmg" length="18838733" type="application/octet-stream"
+                 sparkle:edSignature="ISzNOIjZj2fod5pvHcGN+55ET2V8BtSsWC9fzisJ+N0G1PDVkShUd7wb8SLqe3AfNLe451vtmnBiwJUtCUWhBA=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.7.2</title>
       <pubDate>Sat, 21 Nov 2026 23:19:14 +0000</pubDate>
       <sparkle:version>202611212316</sparkle:version>
