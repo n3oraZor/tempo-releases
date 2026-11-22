@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.7.5</title>
+      <pubDate>Sun, 22 Nov 2026 16:13:52 +0000</pubDate>
+      <sparkle:version>202611221609</sparkle:version>
+      <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Newsletters : la liste s&#x27;affiche en entier</h3><ul><li>Dans Newsletters, le nom des expéditeurs ne passe plus sous la barre de gauche : la première colonne s&#x27;affiche en entier, aperçu ouvert ou non.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.7.5/ClarkMail.dmg" length="18963559" type="application/octet-stream"
+                 sparkle:edSignature="w2zouWcFX54L1fF7fUS/jT++d0OEY+vEiiRjzlmSfirbcLIfjIXmpp9S6Uw8GHCMndAoOVeBK+OSfV4f75QHDA=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.7.4</title>
       <pubDate>Sun, 22 Nov 2026 14:44:23 +0000</pubDate>
       <sparkle:version>202611221441</sparkle:version>
