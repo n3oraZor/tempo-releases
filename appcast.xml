@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.7.6</title>
+      <pubDate>Mon, 23 Nov 2026 22:35:09 +0000</pubDate>
+      <sparkle:version>202611232230</sparkle:version>
+      <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Clark a préparé votre matinée</h3><ul><li>Nouveau : « Préparé par Clark ». Chaque matin, ou au fil de la journée, Clark prépare les réponses à vos emails, les réponses aux invitations et les relances, et propose de ranger les newsletters. Vous validez une pile de cartes : rien ne part sans vous.</li><li>Vous le trouvez sous la boîte de réception. Il se règle (le matin, ou aussi au fil de l&#x27;eau) et se coupe dans Réglages › Assistant.</li><li>Clark Mail parle anglais : l&#x27;app suit la langue de votre Mac, et le mode vocal comprend aussi l&#x27;anglais.</li><li>Les réponses de Clark sont écrites dans votre langue. Pour un email en anglais, « Traduire en anglais » la traduit d&#x27;un geste, à relire avant d&#x27;envoyer.</li><li>Le réglage des images et des logos des emails est passé dans Réglages › Confidentialité.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.7.6/ClarkMail.dmg" length="20036613" type="application/octet-stream"
+                 sparkle:edSignature="h6v9cmYyjDQpyQFUGEDiGWTd79YTNlvus2Hh1LHNCuoXDw6f+fEqvX9cSo64NtEPPTLrHiAiV1jvApWSp0tpCQ=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.7.5</title>
       <pubDate>Sun, 22 Nov 2026 16:13:52 +0000</pubDate>
       <sparkle:version>202611221609</sparkle:version>
