@@ -6,6 +6,16 @@
     <description>Nouvelles versions de Clark Mail</description>
     <language>fr</language>
     <item>
+      <title>Clark Mail 1.7.7</title>
+      <pubDate>Fri, 27 Nov 2026 01:34:26 +0000</pubDate>
+      <sparkle:version>202611270129</sparkle:version>
+      <sparkle:shortVersionString>1.7.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Un mode vocal plus rapide, des invitations en un clic</h3><ul><li>Le mode vocal répond plus vite : votre question part dès que vous vous arrêtez de parler, et l&#x27;IA répond avec un modèle plus rapide pendant la conversation.</li><li>Le micro reste ouvert pendant toute la conversation, il ne se coupe plus au bout de quelques secondes de silence. Au casque, vous pouvez couper la parole à Clark Mail en parlant.</li><li>Avec la voix naturelle, Clark Mail commence à parler plus tôt : le son est joué pendant qu&#x27;il arrive.</li><li>Vous avez dit Oui mais vous ne pouvez plus venir ? Ouvrez le rendez-vous et choisissez Peut-être ou Non : l&#x27;organisateur est prévenu. Cela marche aussi dans la fiche « Modifier », et sur iPhone.</li><li>Votre réponse se voit tout de suite, même pour une réunion qui se répète, et la bulle se ferme d&#x27;elle-même.</li><li>Cliquer de nouveau sur la réponse déjà donnée n&#x27;envoie plus d&#x27;email à l&#x27;organisateur.</li><li>La fiche « Modifier l&#x27;évènement » est plus simple : plus de barre de défilement inutile, la visio tient sur une ligne, les disponibilités des invités s&#x27;affichent en entier.</li></ul>]]></description>
+      <enclosure url="https://github.com/n3oraZor/tempo-releases/releases/download/v1.7.7/ClarkMail.dmg" length="20170746" type="application/octet-stream"
+                 sparkle:edSignature="rP+X2ZvLXacRvH07kom9BWaHfn1xFFb1zgiyQKdyPinWPDqin6+ycWzbIQ7i9EYEz6Py5vIuDhhwTDnqQDIdAg=="/>
+    </item>
+    <item>
       <title>Clark Mail 1.7.6</title>
       <pubDate>Mon, 23 Nov 2026 22:35:09 +0000</pubDate>
       <sparkle:version>202611232230</sparkle:version>
